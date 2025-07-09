@@ -10,4 +10,4 @@
 
 这些平台汇集了大量日本及亚洲地区的精品视频资源，涵盖多种题材和风格。用户可以根据详细的分类和标签快速找到喜欢的内容。视频页面提供清晰的时长、演员及画质信息，支持高清播放并根据网络状态自动调整画质，保证观影流畅。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/dangtho20250709/dangtho15 ）</span>
